@@ -122,5 +122,18 @@ struct var_t *entry(char* varname)
 
 //gen
 void gen(int op, int )
+{
+
+}
+
+//merge
+void merge()
+{
+
+}
 
 //backpatch
+void backpatch()
+{
+
+}
